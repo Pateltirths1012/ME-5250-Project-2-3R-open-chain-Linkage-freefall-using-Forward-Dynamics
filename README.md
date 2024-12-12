@@ -1,0 +1,1 @@
+## The project successfully demonstrated the application of forward dynamics using the Lagrangian formulation to simulate the free fall of a 3R planar arm. The derived equations and MATLAB implementation accurately modeled the behavior of the robotic arm under the influence of gravity, providing a deeper understanding of the dynamics of multi-link robotic systems.
